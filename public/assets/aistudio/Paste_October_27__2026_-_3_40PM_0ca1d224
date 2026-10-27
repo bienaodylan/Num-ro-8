@@ -1,0 +1,822 @@
+# MASTER PROMPT — N°8
+## Création d'une plateforme artistique et e-commerce haut de gamme
+
+Agis comme un directeur artistique spécialisé dans les maisons de mode indépendantes, un designer UI/UX senior, un développeur full-stack expert en e-commerce et un architecte logiciel spécialisé dans les applications web modernes.
+
+Ta mission est de concevoir et de développer un site web complet, élégant, immersif, responsive et réellement fonctionnel pour **N°8**, une marque indépendante qui réunit l'art contemporain, les objets artistiques et les vêtements.
+
+Le résultat doit ressembler à une véritable maison de création indépendante, à la croisée d'une galerie d'art contemporain, d'une marque de mode avant-gardiste et d'un studio artistique.
+
+Ne produis pas un site générique, un template Shopify banal ou une simple landing page. Crée une expérience numérique possédant une identité visuelle forte, une architecture cohérente, une navigation fluide et une base technique suffisamment solide pour être mise en production.
+
+---
+
+# 1. IDENTITÉ DE LA MARQUE
+
+Nom officiel : N°8
+
+Le logo doit représenter exactement la marque N°8, avec le symbole ° en exposant après la lettre N.
+
+Positionnement :
+- Marque artistique indépendante.
+- Création et vente de toiles originales.
+- Sacs peints ou dessinés à la main.
+- T-shirts artistiques.
+- Collections limitées et futures catégories d'objets.
+- Univers créatif expérimental, sombre, émotionnel et avant-gardiste.
+
+La marque doit pouvoir évoluer avec le temps. Son identité ne doit donc pas être limitée à une seule catégorie de produits.
+
+La marque s'adresse à une clientèle sensible à l'art contemporain, à la mode indépendante, à l'expression personnelle et aux objets singuliers.
+
+Signature éditoriale possible :
+« Art, objets et vêtements. Un univers à part. »
+
+Ne présente pas cette phrase comme un slogan définitif si une autre signature plus forte s'intègre mieux à l'identité visuelle.
+
+Langue principale : français.
+
+Devise principale : franc CFA, XOF.
+
+Prévoir une architecture permettant d'ajouter ultérieurement une version anglaise et d'autres devises.
+
+---
+
+# 2. DIRECTION ARTISTIQUE
+
+La direction artistique doit s'inspirer des codes visuels de la mode avant-gardiste, de la photographie éditoriale sombre, des galeries contemporaines et de la typographie gothique.
+
+Les références fournies servent à comprendre l'atmosphère, le contraste, les proportions et l'expérience de navigation. Elles ne doivent pas être copiées directement.
+
+Ne reproduis ni le logo, ni les textes, ni les photographies, ni la mise en page exacte d'une marque de référence. Construis une identité originale pour N°8.
+
+## Palette de couleurs
+
+Utilise une palette très restreinte :
+
+- Noir profond : #080808
+- Noir secondaire : #111111
+- Gris charbon : #202020
+- Gris pierre : #85817D
+- Argent clair : #C7C7C7
+- Blanc cassé : #E8E5E0
+
+Les couleurs dominantes doivent rester le noir, le gris et l'argent.
+
+Évite les couleurs vives, les dégradés colorés, les effets néon, les interfaces multicolores et les composants visuellement trop décoratifs.
+
+## Typographie
+
+Utilise deux familles typographiques complémentaires :
+
+1. Une police Blackletter ou gothique expressive pour le logo et certains éléments artistiques.
+2. Une police éditoriale élégante, à empattements, pour les grands titres.
+3. Une police sans empattement discrète et lisible pour la navigation, les descriptions, les prix et les formulaires.
+
+Exemples de familles à évaluer selon leur disponibilité : UnifrakturCook pour certains traitements gothiques, Cormorant Garamond pour les titres éditoriaux et Inter pour l'interface.
+
+Ne transforme pas tout le texte du site en typographie gothique. Le logo doit être expressif ; le reste doit demeurer lisible et raffiné.
+
+## Logo N°8
+
+Conçois un logo typographique original.
+
+Caractéristiques :
+- Lettres gothiques épaisses et sculpturales.
+- Volume tridimensionnel crédible.
+- Matière argentée, chrome satiné ou métal brossé.
+- Éclairage latéral dramatique.
+- Ombres profondes.
+- Relief visible, sans effet plastique bon marché.
+- Fond noir uni pour les présentations principales.
+
+Le logo doit évoquer une sculpture métallique plutôt qu'un simple texte avec une ombre portée.
+
+Prévois :
+- Une version principale tridimensionnelle pour l'écran d'introduction et les campagnes.
+- Une version simplifiée, blanche ou argentée, pour l'en-tête.
+- Une icône compacte pour le favicon.
+- Une version monochrome adaptée aux petits écrans.
+
+Si un véritable fichier vectoriel du logo n'est pas disponible, crée une solution typographique originale avec les outils disponibles. N'invente pas un faux fichier de police ou une ressource inexistante.
+
+---
+
+# 3. EXPÉRIENCE D'ENTRÉE : INTRODUCTION IMMERSIVE
+
+La première page est une page d'introduction à part entière.
+
+Elle ne doit pas afficher immédiatement les produits.
+
+## Composition
+
+Fond noir presque intégral.
+
+Dans la partie supérieure :
+- Petite signature N°8.
+- Éventuellement un indicateur sonore discret, uniquement si une véritable expérience sonore est implémentée.
+
+Au centre :
+- Grand logo N°8 argenté en 3D.
+- Espacement généreux.
+- Une courte signature éditoriale.
+- Un bouton discret portant le texte « ENTRER ».
+
+Dans la partie inférieure :
+- Mention « ART / OBJECTS / APPAREL ».
+- Mention géographique facultative « ABIDJAN / WORLDWIDE ».
+- Détails typographiques très discrets.
+
+Le résultat doit être calme, intrigant et cinématographique.
+
+## Animation
+
+Au premier chargement :
+- Apparition progressive du fond.
+- Révélation subtile du logo.
+- Léger mouvement de lumière sur le métal, si réalisable sans nuire aux performances.
+- Apparition du bouton avec une transition douce.
+
+Le mouvement doit rester lent et maîtrisé.
+
+Ne crée pas de longue animation qui empêche l'utilisateur d'accéder au site.
+
+Le bouton « ENTRER » doit réellement ouvrir la page principale.
+
+Respecte la préférence de réduction des animations du système.
+
+L'introduction ne doit pas se répéter de manière agaçante à chaque changement de page. Conserve son état de visite pendant la navigation normale, sans imposer un stockage persistant inutile.
+
+---
+
+# 4. PAGE PRINCIPALE : EXPLORER L'UNIVERS
+
+Après avoir cliqué sur « ENTRER », l'utilisateur découvre une page éditoriale organisée autour de trois grands blocs photographiques.
+
+C'est le cœur de l'expérience.
+
+## En-tête
+
+Créer un en-tête minimal :
+- Logo N°8 à gauche.
+- Liens éditoriaux à droite sur ordinateur.
+- Menu compact sur mobile.
+- Navigation discrète.
+- Aucun bouton inutile.
+
+Liens principaux :
+- Accueil
+- Collections
+- Archives
+- À propos, si pertinent
+
+Le panier peut être accessible depuis un emplacement discret.
+
+## Les trois blocs principaux
+
+### Bloc 01 — GALERIE
+
+Image dominante : une toile originale ou une œuvre photographiée dans un environnement artistique sombre.
+
+Texte :
+« Les toiles »
+
+Description :
+« Œuvres originales et pièces uniques. »
+
+Action :
+« EXPLORER LA GALERIE »
+
+Au clic, ouvrir la page dédiée aux œuvres.
+
+### Bloc 02 — OBJETS
+
+Image dominante : un sac dessiné ou peint à la main, photographié comme une pièce de collection.
+
+Texte :
+« Sacs & accessoires »
+
+Description :
+« Des objets singuliers, dessinés pour sortir de l'ordinaire. »
+
+Action :
+« EXPLORER LES OBJETS »
+
+Au clic, ouvrir la catégorie des sacs et accessoires.
+
+### Bloc 03 — COLLECTIONS
+
+Image dominante : un modèle portant un t-shirt artistique dans une campagne photographique sombre.
+
+Texte :
+« Vêtements »
+
+Description :
+« Des créations à porter comme des œuvres. »
+
+Action :
+« DÉCOUVRIR LES COLLECTIONS »
+
+Au clic, ouvrir la catégorie des vêtements.
+
+## Mise en page
+
+Sur ordinateur :
+- Composition éditoriale asymétrique.
+- Grandes images.
+- Blocs de proportions soigneusement définies.
+- Espaces négatifs importants.
+- Textes courts.
+- Survols subtils.
+
+Sur mobile :
+- Blocs empilés verticalement.
+- Images suffisamment grandes pour raconter une histoire.
+- Titres lisibles.
+- Zones cliquables confortables.
+- Aucune barre horizontale indésirable.
+
+Les trois catégories doivent être immédiatement identifiables.
+
+Ne transforme pas cette page en tableau de bord ou en interface de logiciel.
+
+---
+
+# 5. PAGE GALERIE — LES ŒUVRES
+
+Créer une page qui se comporte comme une véritable galerie en ligne.
+
+## En-tête éditorial
+
+Titre : « Galerie »
+
+Introduction possible :
+« Chaque œuvre est une trace, une recherche, une manière de donner forme à une idée. »
+
+Afficher ensuite les œuvres disponibles sous forme de grille photographique.
+
+## Informations d'une œuvre
+
+Chaque œuvre peut contenir :
+- Titre.
+- Image principale.
+- Galerie de photographies.
+- Nom ou signature de l'artiste, si souhaité.
+- Description artistique.
+- Technique utilisée.
+- Matériaux.
+- Dimensions.
+- Année de création.
+- Prix en XOF.
+- Statut de disponibilité.
+- Quantité disponible, lorsque pertinent.
+- Possibilité d'achat.
+- Possibilité de demander une commande personnalisée.
+
+Distinguer clairement :
+- Disponible.
+- Réservé, si cette fonctionnalité est réellement gérée.
+- Vendu.
+- Pièce sur commande.
+
+Les œuvres vendues peuvent rester visibles dans les archives, sans afficher un bouton d'achat actif.
+
+## Fiche détaillée
+
+Au clic sur une œuvre, afficher une page dédiée avec :
+- Grande image.
+- Vues complémentaires.
+- Informations artistiques.
+- Prix.
+- Disponibilité.
+- Bouton d'achat ou de demande de renseignements.
+
+Le design doit laisser l'œuvre occuper le premier plan.
+
+Ne surcharge pas les fiches avec des badges ou des encadrés décoratifs.
+
+---
+
+# 6. PAGE OBJETS — SACS ET ACCESSOIRES
+
+Créer une page dédiée aux objets artistiques.
+
+Le premier objectif est de vendre des sacs peints, dessinés ou personnalisés à la main.
+
+Chaque fiche produit doit pouvoir inclure :
+- Nom du produit.
+- Photographies détaillées.
+- Description.
+- Techniques artistiques.
+- Matériaux.
+- Dimensions.
+- Prix.
+- Disponibilité.
+- Quantité disponible.
+- Indication précisant si la pièce est unique ou produite en plusieurs exemplaires.
+- Délai de réalisation, si applicable.
+- Bouton « AJOUTER AU PANIER ».
+
+Prévoir les produits personnalisés comme une évolution possible, mais ne prétends pas que cette option est active si aucun processus de commande personnalisée n'est implémenté.
+
+Si un sac est une pièce unique, empêcher sa vente en plusieurs exemplaires au-delà du stock réel.
+
+---
+
+# 7. PAGE COLLECTIONS — VÊTEMENTS
+
+Créer une page consacrée aux t-shirts et aux futures pièces vestimentaires.
+
+Chaque produit doit pouvoir contenir :
+- Nom.
+- Photographies éditoriales.
+- Prix en XOF.
+- Description.
+- Tailles disponibles.
+- Couleurs disponibles, si pertinentes.
+- Guide des tailles.
+- Quantités disponibles.
+- Statut de disponibilité.
+- Bouton d'ajout au panier.
+
+Lorsqu'une taille est indisponible, l'utilisateur ne doit pas pouvoir la sélectionner pour un achat.
+
+Les collections peuvent être organisées par :
+- Collection actuelle.
+- Éditions limitées.
+- Collections précédentes.
+
+Ne crée pas artificiellement des collections, des prix ou des stocks présentés comme réels. Les exemples utilisés pendant le développement doivent être identifiés comme données de démonstration.
+
+---
+
+# 8. ARCHIVES ET IDENTITÉ ÉDITORIALE
+
+Créer une page « Archives ».
+
+Elle permet de présenter :
+- Anciennes collections.
+- Œuvres vendues.
+- Campagnes photographiques.
+- Projets artistiques.
+- Objets qui ne sont plus disponibles.
+
+Les archives sont un élément important de l'identité de N°8 : elles donnent à la marque une histoire visuelle et un caractère artistique.
+
+Créer également une page « À propos » présentant :
+- La démarche artistique.
+- La vision de la marque.
+- Le processus créatif.
+- La relation entre les œuvres, les objets et les vêtements.
+
+L'artiste doit pouvoir modifier ces textes depuis l'administration.
+
+Ne rédige pas de biographie inventée en prétendant qu'elle correspond à la véritable histoire de l'artiste.
+
+---
+
+# 9. COMMERCE EN LIGNE
+
+Le site doit intégrer un parcours d'achat cohérent.
+
+## Panier
+
+Créer un véritable panier permettant :
+- D'ajouter un produit.
+- De supprimer un produit.
+- De modifier les quantités.
+- De choisir une taille lorsque nécessaire.
+- De consulter le prix unitaire.
+- De calculer le sous-total.
+- De visualiser les éventuels frais de livraison.
+- De consulter le total.
+
+Le panier doit fonctionner sur mobile et ordinateur.
+
+Il ne suffit pas de créer un bouton visuellement cliquable.
+
+## Commande
+
+Créer une page de commande contenant :
+- Nom du client.
+- Adresse e-mail.
+- Téléphone.
+- Informations de livraison.
+- Ville.
+- Instructions complémentaires facultatives.
+- Récapitulatif de la commande.
+- Frais de livraison clairement indiqués.
+- Total à payer.
+
+Ne collecte que les informations réellement nécessaires.
+
+Prévoir une expérience adaptée aux clients de Côte d'Ivoire et une architecture extensible à l'international.
+
+Les méthodes de livraison doivent être configurables depuis l'administration.
+
+Ne fixe pas arbitrairement des tarifs de livraison réels. Utilise une configuration modifiable.
+
+## Paiement
+
+Prépare une intégration de paiement sécurisée pouvant prendre en charge les moyens disponibles via un prestataire compatible avec la Côte d'Ivoire, notamment :
+- Mobile Money, selon les opérateurs pris en charge.
+- Carte bancaire, si disponible auprès du prestataire.
+
+L'intégration doit être conçue autour d'un prestataire réellement accessible et compatible avec le compte marchand.
+
+Ne simule jamais un paiement réussi.
+
+N'affiche pas un statut « Payé » avant confirmation fiable du prestataire.
+
+Les secrets API doivent être stockés côté serveur dans des variables d'environnement.
+
+Les confirmations de paiement doivent être vérifiées côté serveur, au moyen des mécanismes documentés du prestataire.
+
+Si aucune clé API ou aucun compte marchand n'est disponible pendant le développement, crée une interface d'intégration clairement identifiée comme non configurée. Documente les étapes restantes.
+
+Ne demande jamais les informations de carte bancaire directement dans une base de données de l'application.
+
+## Confirmation
+
+Après une commande réellement validée :
+- Générer un numéro de commande.
+- Afficher un récapitulatif.
+- Confirmer le statut réel du paiement.
+- Prévoir un e-mail de confirmation si un service d'envoi d'e-mails est configuré.
+
+Ne prétends pas avoir envoyé un e-mail si aucun service fonctionnel ne l'a envoyé.
+
+---
+
+# 10. ADMINISTRATION DU SITE
+
+Créer une interface d'administration distincte de la boutique publique.
+
+Elle doit être accessible uniquement aux utilisateurs autorisés.
+
+Prévoir une authentification sécurisée.
+
+Ne jamais exposer les pages d'administration, les données clients ou les opérations sensibles sans vérification des autorisations côté serveur.
+
+## Tableau de bord
+
+Afficher notamment :
+- Nombre de commandes.
+- Ventes confirmées.
+- Chiffre d'affaires encaissé.
+- Commandes en attente.
+- Produits disponibles.
+- Produits épuisés.
+- Dernières commandes.
+
+Les indicateurs financiers doivent être calculés à partir des commandes et paiements enregistrés. Ne mélange pas les commandes en attente avec les ventes encaissées.
+
+## Gestion des produits
+
+L'administrateur doit pouvoir :
+- Créer un produit.
+- Modifier un produit.
+- Supprimer ou archiver un produit.
+- Ajouter plusieurs images.
+- Modifier le titre.
+- Rédiger la description.
+- Définir le prix.
+- Gérer le stock.
+- Gérer les tailles.
+- Définir la catégorie.
+- Indiquer si le produit est unique.
+- Publier ou dépublier le produit.
+- Marquer une œuvre comme vendue.
+- Associer le produit à une collection.
+
+La gestion des produits doit être utilisable sans écrire de code.
+
+## Gestion des commandes
+
+Prévoir :
+- Liste des commandes.
+- Numéro de commande.
+- Date.
+- Informations nécessaires du client.
+- Produits commandés.
+- Montant.
+- Statut du paiement.
+- Statut de préparation.
+- Statut de livraison.
+
+Prévoir des statuts clairs et distincts :
+- En attente de paiement.
+- Payée.
+- En préparation.
+- Expédiée.
+- Livrée.
+- Annulée.
+- Remboursée, uniquement si le remboursement a réellement été traité ou confirmé.
+
+Les changements de statut sensibles doivent être validés côté serveur.
+
+## Gestion du contenu
+
+L'administrateur doit également pouvoir modifier :
+- Le texte de présentation.
+- Les catégories.
+- Les images de couverture.
+- Les collections.
+- Les archives.
+- Les informations de contact.
+- Les liens des réseaux sociaux.
+- Les informations de livraison.
+- Les paramètres généraux de la boutique.
+
+Créer une interface claire et adaptée aux écrans mobiles.
+
+---
+
+# 11. ARCHITECTURE TECHNIQUE
+
+Commence par examiner l'environnement et les fichiers existants du projet.
+
+Si un projet existe déjà, préserve les éléments utiles et améliore l'architecture sans supprimer arbitrairement les fonctionnalités déjà présentes.
+
+Si le projet est vierge, utilise une architecture moderne adaptée à une application web maintenable.
+
+## Front-end
+
+Utilise de préférence :
+- React.
+- TypeScript.
+- Une architecture de composants réutilisables.
+- CSS moderne ou Tailwind CSS, selon l'environnement.
+- Un système de routage adapté.
+- Une gestion d'état fiable pour le panier et les interfaces interactives.
+
+Si l'environnement Google AI Studio impose ou recommande une architecture différente, adapte-toi à ses capacités réelles sans sacrifier la qualité.
+
+## Back-end et base de données
+
+Si le projet utilise déjà Supabase, conserve-le et audite sa configuration.
+
+Sinon, évalue une architecture avec :
+- Supabase Auth pour l'authentification.
+- PostgreSQL pour les données.
+- Supabase Storage pour les images.
+- Des politiques Row Level Security adaptées.
+- Des fonctions serveur pour les opérations sensibles.
+
+Le schéma de données doit prévoir au minimum :
+- Profils et rôles.
+- Catégories.
+- Produits.
+- Images des produits.
+- Collections.
+- Archives.
+- Panier, si nécessaire côté serveur.
+- Commandes.
+- Lignes de commande.
+- Paiements.
+- Adresses ou informations de livraison.
+- Paramètres de la boutique.
+
+Les commandes doivent conserver un instantané des noms, prix et variantes des produits au moment de l'achat. Une modification ultérieure du catalogue ne doit pas altérer les commandes historiques.
+
+Les prix doivent être représentés avec une précision appropriée et une devise explicitement enregistrée.
+
+## Sécurité
+
+Implémente ou documente :
+- Validation des données.
+- Protection des opérations administratives.
+- Contrôle des autorisations côté serveur.
+- Politiques RLS sur les données privées.
+- Gestion sécurisée des sessions.
+- Vérification des webhooks de paiement.
+- Prévention des modifications frauduleuses de prix.
+- Vérification du stock avant confirmation.
+- Protection contre les injections et les entrées malveillantes.
+- Validation des fichiers envoyés.
+- Limitation des types et tailles de fichiers.
+- Absence de secrets dans le code client.
+
+Les prix et les montants des commandes doivent être recalculés côté serveur à partir de données fiables.
+
+Ne considère jamais une simple requête envoyée par le navigateur comme une preuve de paiement.
+
+---
+
+# 12. PHOTOGRAPHIES ET RESSOURCES VISUELLES
+
+Les photographies sont essentielles au projet.
+
+Utilise des images artistiques cohérentes avec l'identité de N°8 :
+- Peintures contemporaines expressives.
+- Portraits artistiques.
+- Sacs peints à la main.
+- T-shirts graphiques.
+- Matières sombres.
+- Photographies éditoriales de mode.
+- Textures de papier, de toile et de métal.
+
+Priorité aux images originales fournies par l'artiste.
+
+Si elles ne sont pas encore disponibles, utilise des images de remplacement adaptées au développement, sans les présenter comme les œuvres réelles de l'artiste.
+
+N'utilise pas le logo ou les photographies des marques de référence.
+
+N'intègre pas d'URL d'image inventée ou de ressource inexistante.
+
+Prévois un remplacement simple des images par l'administrateur.
+
+Optimise les images et utilise le chargement différé lorsque cela est pertinent.
+
+Les images de couverture doivent avoir un cadrage maîtrisé sur ordinateur et mobile.
+
+---
+
+# 13. ANIMATIONS ET MICRO-INTERACTIONS
+
+Les animations doivent soutenir l'expérience éditoriale.
+
+Prévoir :
+- Apparition subtile des blocs.
+- Transitions douces entre les pages.
+- Zoom photographique léger au survol.
+- Apparition progressive des textes.
+- Transitions discrètes sur les boutons.
+- Animation du panier.
+- Indicateurs de chargement élégants.
+
+Éviter :
+- Les animations excessives.
+- Les curseurs personnalisés qui nuisent à l'accessibilité.
+- Les vidéos automatiques lourdes.
+- Les effets qui ralentissent les appareils mobiles.
+- Les animations qui bloquent la navigation.
+
+Prévoir des états de chargement, d'erreur et de succès pour les opérations importantes.
+
+Tous les contrôles doivent rester utilisables au clavier et sur écran tactile.
+
+---
+
+# 14. RESPONSIVE DESIGN
+
+Le site doit être conçu en priorité pour offrir une expérience excellente sur mobile, sans négliger les écrans larges.
+
+Tester au minimum :
+- Petit écran mobile.
+- Smartphone courant.
+- Tablette.
+- Ordinateur portable.
+- Grand écran.
+
+Vérifier :
+- Les proportions du logo.
+- Le cadrage des photographies.
+- La lisibilité des textes.
+- La navigation.
+- Les fiches produit.
+- Le panier.
+- Le paiement.
+- L'administration.
+
+Aucun débordement horizontal ne doit apparaître.
+
+Les zones tactiles doivent être suffisamment grandes.
+
+Ne réduis pas simplement la version ordinateur pour obtenir la version mobile : adapte réellement la composition.
+
+---
+
+# 15. SEO, ACCESSIBILITÉ ET PERFORMANCE
+
+Implémente :
+- Titres et descriptions adaptés à chaque page.
+- URLs lisibles.
+- Structure sémantique correcte.
+- Textes alternatifs pour les images.
+- Open Graph pour le partage sur les réseaux sociaux.
+- Sitemap et robots.txt lorsque l'environnement le permet.
+- Données structurées de produits lorsque les informations nécessaires sont disponibles.
+- Gestion des pages introuvables.
+- Optimisation des images.
+- Chargement différé.
+- Code maintenable.
+
+Ne publie pas de faux avis clients, de fausses notes ou de fausses statistiques commerciales.
+
+Respecte les contrastes nécessaires à la lisibilité, malgré la direction artistique sombre.
+
+---
+
+# 16. DONNÉES DE DÉMONSTRATION
+
+Si le catalogue réel n'est pas encore fourni, crée un petit catalogue de démonstration visuellement cohérent.
+
+Il peut inclure :
+- Quelques œuvres.
+- Quelques sacs.
+- Quelques t-shirts.
+
+Les titres, les descriptions, les prix et les images doivent être clairement identifiés comme des exemples à remplacer.
+
+N'invente pas une histoire personnelle attribuée à l'artiste.
+
+Ne présente pas les données fictives comme des ventes, des clients ou des stocks réels.
+
+Les données de démonstration doivent pouvoir être supprimées facilement avant le lancement.
+
+Ne crée aucun compte administrateur avec un mot de passe codé en dur.
+
+---
+
+# 17. MÉTHODE DE TRAVAIL
+
+Travaille dans l'ordre suivant.
+
+### Phase 1 — Audit et architecture
+
+- Examine les fichiers du projet.
+- Identifie les technologies disponibles.
+- Définis les pages.
+- Définis les composants.
+- Définis les routes.
+- Définis le schéma de données.
+- Identifie les intégrations externes nécessaires.
+
+### Phase 2 — Direction artistique et interface
+
+- Crée le système de design.
+- Implémente le logo ou son traitement typographique.
+- Crée la page d'introduction.
+- Crée la page principale avec les trois blocs.
+- Crée les pages Galerie, Objets et Collections.
+- Crée les pages produit et Archives.
+- Développe les versions mobile et ordinateur.
+
+### Phase 3 — Fonctionnalités
+
+- Implémente la navigation.
+- Implémente le panier.
+- Implémente les fiches produit.
+- Implémente la gestion des stocks.
+- Implémente les commandes.
+- Connecte la base de données.
+- Implémente l'administration.
+- Prépare et configure les intégrations de paiement disponibles.
+
+### Phase 4 — Sécurité et tests
+
+- Vérifie les autorisations.
+- Vérifie les politiques RLS.
+- Vérifie le fonctionnement du panier.
+- Vérifie le calcul des prix.
+- Vérifie les stocks.
+- Vérifie les commandes.
+- Vérifie le comportement des paiements.
+- Vérifie les erreurs et les états de chargement.
+- Vérifie les pages sur mobile.
+
+### Phase 5 — Préparation au lancement
+
+- Documente les variables d'environnement.
+- Documente la configuration de la base de données.
+- Documente la configuration des paiements.
+- Documente le déploiement.
+- Signale les services qui nécessitent encore des clés ou une activation manuelle.
+- Prépare une checklist de mise en production.
+
+---
+
+# 18. EXIGENCES FINALES
+
+Le résultat doit être un véritable site web, pas une simple présentation.
+
+Ne t'arrête pas après avoir créé la page d'introduction.
+
+Ne remplace pas les fonctionnalités demandées par des boutons décoratifs.
+
+Ne prétends pas qu'une fonctionnalité est terminée si elle n'est pas implémentée et testée.
+
+Ne simule pas l'envoi d'e-mails, les paiements, les commandes ou la sauvegarde des produits.
+
+N'expose aucun secret.
+
+N'écrase pas les fichiers existants sans avoir examiné leur rôle.
+
+Privilégie une architecture simple, robuste et maintenable plutôt qu'une complexité inutile.
+
+Si une intégration dépend d'informations manquantes, construis les parties indépendantes et documente précisément ce qui reste à configurer.
+
+À la fin, fournis :
+1. La liste des pages créées.
+2. La liste des fonctionnalités réellement opérationnelles.
+3. L'architecture technique retenue.
+4. Le schéma de base de données.
+5. Les variables d'environnement nécessaires.
+6. Les étapes de configuration des paiements.
+7. Les tests effectués et leurs résultats.
+8. Les éventuels points bloquants avant la mise en production.
+
+Commence maintenant par examiner le projet existant, puis construis le site N°8 directement dans l'environnement de développement disponible.
+
+La priorité absolue est d'obtenir une identité visuelle exceptionnelle, une navigation simple, une expérience mobile irréprochable et un commerce en ligne réellement fonctionnel.

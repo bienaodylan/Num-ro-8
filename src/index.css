@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-bg-primary: #080808;
+    --color-bg-secondary: #111111;
+    --color-surface: #171717;
+    --color-border: #262626;
+    --color-muted: #85817D;
+    --color-silver: #C7C7C7;
+    --color-white: #E8E5E0;
+  }
+
+  body {
+    background-color: #080808;
+    color: #E8E5E0;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #080808;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #262626;
+    border-radius: 0px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #404040;
+  }
+}
+
+.font-gothic {
+  font-family: 'UnifrakturCook', 'Pirata One', serif;
+  letter-spacing: 0.05em;
+}
+
+.font-serif-editorial {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-sans-ui {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Chrome metallic sculpted text effect */
+.chrome-text {
+  background: linear-gradient(
+    135deg,
+    #FFFFFF 0%,
+    #A0A0A0 25%,
+    #E8E8E8 50%,
+    #5E5E5E 75%,
+    #D4D4D4 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0px 4px 12px rgba(255, 255, 255, 0.15))
+          drop-shadow(0px 8px 30px rgba(0, 0, 0, 0.9));
+}
+
+.chrome-border {
+  border-image: linear-gradient(
+    to bottom right,
+    rgba(255, 255, 255, 0.4),
+    rgba(120, 120, 120, 0.2),
+    rgba(255, 255, 255, 0.1)
+  ) 1;
+}
+
+/* Grain texture overlay */
+.bg-grain {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Shimmer scanline effect on metallic elements */
+@keyframes chrome-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(255,255,255,0) 0%,
+    rgba(255,255,255,0.12) 50%,
+    rgba(255,255,255,0) 100%
+  );
+  background-size: 200% 100%;
+  animation: chrome-shimmer 6s infinite;
+}

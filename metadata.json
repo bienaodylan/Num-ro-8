@@ -1,0 +1,7 @@
+{
+  "name": "N°8 — Maison Artistique & Mode Avant-Garde",
+  "description": "Plateforme artistique et e-commerce haut de gamme pour N°8. Art contemporain, toiles originales, objets d'art peints à la main et vêtements de collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
